@@ -1,0 +1,3 @@
+/home/w520/CLionProjects/classWork15062024/cmake-build-debug/CMakeFiles/classWork15062024.dir
+/home/w520/CLionProjects/classWork15062024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/w520/CLionProjects/classWork15062024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
